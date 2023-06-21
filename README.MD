@@ -1,5 +1,5 @@
 # St Huxley's Community College-homepage
-  | Live Site URL: | [https://jackzz119.github.io/bouncing-balls-game-js/](https://jackzz119.github.io/bouncing-balls-game-js/) |
+  | Live Site URL: | [https://jackzz119.github.io/St-Huxley-s-community-College_homepage/](https://jackzz119.github.io/St-Huxley-s-community-College_homepage/) |
   |||
   
 
